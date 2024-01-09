@@ -5,3 +5,4 @@ It includes aesthetic plugins, and the following functional plugins to do the fo
 - treesitter for parsing
 - neotree for tree view
 - Mason and nvim-cmp for autocomplete, linter
+- harpoon for jumping between frequently used files
